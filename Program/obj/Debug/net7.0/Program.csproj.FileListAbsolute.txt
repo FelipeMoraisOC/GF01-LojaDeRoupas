@@ -1,0 +1,14 @@
+C:\Users\Gouveia\Documents\Gamificacao1\Program\bin\Debug\net7.0\Program.exe
+C:\Users\Gouveia\Documents\Gamificacao1\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\Gouveia\Documents\Gamificacao1\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\Gouveia\Documents\Gamificacao1\Program\bin\Debug\net7.0\Program.dll
+C:\Users\Gouveia\Documents\Gamificacao1\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.dll
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\Gouveia\Documents\Gamificacao1\Program\obj\Debug\net7.0\ref\Program.dll
